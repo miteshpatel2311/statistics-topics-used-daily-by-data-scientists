@@ -1,4 +1,4 @@
-# statistics-topics-used-daily-by-data-scientists
+# statistics-topics-for-data-scientists
 focusing on applied (practical) statistics that are used day to day in the life of a data scientist
 
 
